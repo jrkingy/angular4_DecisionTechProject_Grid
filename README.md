@@ -41,8 +41,13 @@ Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app 
 To add your code to Git, do this:
 
 `git status` (to see what is outstanding - notice it is red) 
+
 `git add --all` 
+
 `git status` (notice it is green) 
+
 `git commit -m "description"` 
+
 `git status` (notice now says nothing to commit - your code is safe) 
+
 `git push -u origin master`
