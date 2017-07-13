@@ -26,9 +26,9 @@ Run `npm test` to execute the unit tests via [Karma](https://karma-runner.github
 
 To set me up:
 
-git -c http.sslVerify=false clone https://github.com/jrkingy/angular4_DecisionTechProject_Grid.git
+`git -c http.sslVerify=false clone https://github.com/jrkingy/angular4_DecisionTechProject_Grid.git`
 
-npm install (may need to delete rimraf from the package.json on first attempt?)
+`npm install`
 
 
 ## Development server
